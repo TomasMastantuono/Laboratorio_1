@@ -1,7 +1,7 @@
 # laboratorio1
 Scripts que vamos haciendo en laboratorio y nos sirven para las experimentaciones
 
-##Requisitos para utilizar los scripts
+## Requisitos para utilizar los scripts
 
 Es muy importante importar en el codigo las librerias:
 * Sympy
